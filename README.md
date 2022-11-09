@@ -1,6 +1,8 @@
 [nodejs]: https://nodejs.org/en/
 [foxmmm]: https://github.com/Fox2Code/FoxMagiskModuleManager
 
+> Module moved to [Magisk-Modules-Alt-Repo/node](https://github.com/Magisk-Modules-Alt-Repo/node)!
+
 <p align="center"><img width="140" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1920px-Node.js_logo.svg.png"></p>
 
 # Node.js
